@@ -107,7 +107,7 @@ opacity:0.6;
 
 <div class="container">
 
-<img src="lion.png" class="lion" alt="Lion Image">
+<img src="aa2538c5-8cea-4b39-b49f-490e9cc2077c.png" class="profile">
 
 <h1 class="title"><span id="typing"></span></h1>
 
